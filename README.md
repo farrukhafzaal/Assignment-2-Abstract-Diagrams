@@ -1,2 +1,3 @@
-# Assignment-2-Abstract-Diagrams
-Abstract Diagrams of Design Patterns
+# Assignment 2 (Abstract-Diagrams - Design Patterns)
+
+This file consists of abstract diagrams of Singleton, Factory, Adapter and Decorator Design Patterns.
